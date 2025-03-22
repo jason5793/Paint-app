@@ -11,7 +11,7 @@
 h1{
   font-family: 'Lobster',cursive;
   font-size: 50px;
-  color: #4644f0;
+  color: #44f08e;
 }
 .draw-area{
   width: 1280px;
@@ -30,4 +30,7 @@ h1{
   background-color: #a3a3a23d;
   margin: auto;
   margin-top: 10px;
+}
+Body{
+  background-color: black;
 }
